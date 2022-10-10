@@ -4,7 +4,7 @@
   "description": "Proyecto del curso de asincronismo de javascript",
   "main": "index.js",
   "scripts": {
-    "doploy": "gh-pages -d src"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
